@@ -15,4 +15,4 @@ CSS
   </br>
   </br> Responsive </p>
 
-![](netflix.gif)
+![](./image/netflix.gif)
